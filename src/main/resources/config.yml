@@ -1,0 +1,11 @@
+# 是否显示物品数量（关闭可提升性能）
+show-amount: true
+
+# 密度检查半径（方块）
+check-radius: 2.5
+
+# 最大同类物品数量
+max-density: 6
+
+# 检查间隔（秒）
+check-interval: 3

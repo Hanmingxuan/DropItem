@@ -1,0 +1,13 @@
+name: Dropitem
+main: vip.lanxing.mingxuan.dropitem.DropitemPlugin
+version: 1.2.0
+api-version: 1.21
+authors: [YourName]
+commands:
+  dropitem:
+    description: 重载插件配置 | Reload plugin configuration
+    usage: /dropitem reload
+permissions:
+  dropitem.reload:
+    description: 允许重载插件配置 | Allows reloading plugin configuration
+    default: op
